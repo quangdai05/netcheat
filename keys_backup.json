@@ -6,7 +6,7 @@
       "expiry": 1784295312,
       "max_devices": 1,
       "status": "active",
-      "note": "Key 1day #1"
+      "note": "Key 1day #1 - BACKUP"
     },
     "1c139dac119ff85e7663557bdfb1f1db0c957bb4abc336cd2caab12fb2f1ef0e": {
       "type": "7day",
@@ -14,7 +14,7 @@
       "expiry": 1784813716,
       "max_devices": 1,
       "status": "active",
-      "note": "Key 7day #1"
+      "note": "Key 7day #1 - BACKUP"
     },
     "63a0b70c1295911856f5ccdefa4b353ee2a35e14f7e8ac114cbd79c50ed70949": {
       "type": "forever",
@@ -22,7 +22,7 @@
       "expiry": 1784295320,
       "max_devices": 1,
       "status": "active",
-      "note": "Key forever #1"
+      "note": "Key forever #1 - BACKUP"
     }
   },
   "version": "1.0",
@@ -30,6 +30,6 @@
   "total_keys": 3,
   "backup_type": "emergency",
   "backup_date": 1784208895,
-  "backup_reason": "Dự phòng khi không truy cập được GitHub",
-  "admin_note": "BACKUP KEY - Sử dụng khi main keys.json bị lỗi"
+  "backup_reason": "Dự phòng khi không truy cập được GitHub chính",
+  "admin_note": "FILE BACKUP - Chỉ sử dụng khi keys.json bị lỗi hoặc không truy cập được"
 }
