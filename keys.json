@@ -1,35 +1,35 @@
 {
-  "_0": {
-    "_1": {
-      "_2": "1***y",
-      "_3": 0,
-      "_4": 0,
-      "_5": 0,
-      "_6": "a****e",
-      "_7": "K*********1"
+  "keys": {
+    "4b02948c88a139c9523b85342b9f800ca82b919f2be8b6bbecb26387715b08a1": {
+      "type": "1day",
+      "created": 1784208912,
+      "expiry": 1784295312,
+      "max_devices": 1,
+      "status": "active",
+      "note": "Key 1day #1"
     },
-    "_8": {
-      "_2": "7***y",
-      "_3": 0,
-      "_4": 0,
-      "_5": 0,
-      "_6": "a****e",
-      "_7": "K*********1"
+    "1c139dac119ff85e7663557bdfb1f1db0c957bb4abc336cd2caab12fb2f1ef0e": {
+      "type": "7day",
+      "created": 1784208916,
+      "expiry": 1784813716,
+      "max_devices": 1,
+      "status": "active",
+      "note": "Key 7day #1"
     },
-    "_9": {
-      "_2": "f*****r",
-      "_3": 0,
-      "_4": 0,
-      "_5": 0,
-      "_6": "a****e",
-      "_7": "K************1"
+    "63a0b70c1295911856f5ccdefa4b353ee2a35e14f7e8ac114cbd79c50ed70949": {
+      "type": "forever",
+      "created": 1784208920,
+      "expiry": 1784295320,
+      "max_devices": 1,
+      "status": "active",
+      "note": "Key forever #1"
     }
   },
-  "_10": "1***0",
-  "_11": 0,
-  "_12": 0,
-  "_13": "e*******y",
-  "_14": 0,
-  "_15": "D*************************************b",
-  "_16": "B********************************************i"
+  "version": "1.0",
+  "last_updated": 1784208942,
+  "total_keys": 3,
+  "backup_type": "emergency",
+  "backup_date": 1784208895,
+  "backup_reason": "Dự phòng khi không truy cập được GitHub",
+  "admin_note": "BACKUP KEY - Sử dụng khi main keys.json bị lỗi"
 }
